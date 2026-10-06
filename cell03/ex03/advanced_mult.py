@@ -4,7 +4,7 @@ if len(sys.argv) > 1:
     sys.exit()
 i = 0
 while i <= 10:
-    print(f"Table de {i}:", end="")
+    print(f"Table de {i} :", end="")
     j = 0
     while j <= 10:
         print(f" {i * j}", end="")
