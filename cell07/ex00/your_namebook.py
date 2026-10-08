@@ -13,4 +13,4 @@ persons = {
     "fifi": "brindacier"
 }
 
-print(array_of_names(persons))
+print(array_of_names(persons))  
