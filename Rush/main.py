@@ -17,3 +17,7 @@ R...
 # ตรวจสอบว่าสคริปต์นี้ถูกรันโดยตรง (ไม่ได้ถูก import ไปใช้ที่อื่น)
 if __name__ == "__main__":
     main()
+
+    #cd /workspaces/DPP-tsuwanbu/Rush
+    #chmod +x main.py checkmate.py
+    #python3 main.py
